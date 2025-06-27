@@ -1,0 +1,14 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Serper API Configuration
+SERPER_API_KEY=your_serper_api_key_here
+
+# Application Configuration
+MAX_SEARCH_RESULTS=10
+MAX_PROJECTS_RETURNED=8
+SEARCH_TIMEOUT=30
+
+# Optional: Custom search settings
+USE_PRELOADED_DATA=true
+ENABLE_WEB_SEARCH=true 

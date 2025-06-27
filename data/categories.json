@@ -1,0 +1,76 @@
+{
+    "categories": {
+      "Web Security": {
+        "keywords": ["web security", "appsec", "web app", "web pentesting", "web hacking", "application security"],
+        "description": "Security practices for web applications"
+      },
+      "API Security": {
+        "keywords": ["api security", "RESTful", "GraphQL", "api hacking", "api pentesting"],
+        "description": "Security practices for APIs"
+      },
+      "Mobile Security": {
+        "keywords": ["mobile security", "android", "ios", "reverse engineering", "mobile hacking", "mobile pentest", "android hacking"],
+        "description": "Security for mobile devices and apps"
+      },
+      "IoT Security": {
+        "keywords": ["iot security", "firmware analysis", "mqtt", "firmware security", "bluetooth hack", "iot hacking"],
+        "description": "Security for Internet of Things devices"
+      },
+     "Cloud Security": {
+        "keywords": ["cloud security", "aws", "gcp", "azure", "iam", "cloud-native"],
+        "description": "Security practices and tools for securing public cloud environments"
+     },
+     "Container & Kubernetes Security": {
+        "keywords": ["container", "docker", "kubernetes", "runtime security", "pod security"],
+        "description": "Hardening containers and securing Kubernetes workloads and orchestration"
+     },
+      "Reverse Engineering": {
+        "keywords": ["reverse engineering", "binary analysis", "ghidra", "ida pro", "debugging"],
+        "description": "Analyzing compiled code and binaries"
+      },
+      "Malware Analysis": {
+        "keywords": ["malware analysis", "sandbox", "behavioral analysis", "ransomware"],
+        "description": "Analysis of malicious software"
+      },
+      "Digital Forensics": {
+        "keywords": ["digital forensics", "memory forensics", "disk forensics", "timeline analysis"],
+        "description": "Digital investigation and evidence analysis"
+      },
+      "Social Engineering": {
+        "keywords": ["social engineering", "phishing", "pretexting", "baiting", "awareness training"],
+        "description": "Human-based attack techniques and defenses"
+      },
+      "DevSecOps": {
+        "keywords": ["devsecops", "ci/cd", "iac", "dast", "sast", "sca"],
+        "description": "Integrating security into CI/CD pipelines"
+      },
+      "AI Security": {
+        "keywords": ["ai security", "ai hacking", "llm attacks", "mcp security", "model bias", "model poisoning", "ai"],
+        "description": "Security challenges in AI and ML systems"
+      },
+      "Incident Response": {
+        "keywords": ["incident response", "breach response", "playbook", "containment"],
+        "description": "Processes for detecting and responding to incidents"
+      },
+      "Threat Modeling": {
+        "keywords": ["threat modeling", "security requirements", "dread", "rapid threat modeling", "risk assessment"],
+        "description": "Identifying and mitigating threats in design"
+      },
+      "SOC Analysis": {
+        "keywords": ["soc", "soc analyst", "siem", "log analysis", "alert triage"],
+        "description": "Monitoring and responding to security events"
+      },
+      "Web3 Security": {
+        "keywords": ["web3", "smart contract security", "blockchain security", "dapp security", "solidity security", "defi security", "nft vulnerabilities", "wallet security", "reentrancy", "flash loan attack"],
+        "description": "Assessing and securing decentralized applications, smart contracts, blockchain protocols, and Web3 infrastructure against known vulnerabilities and logic flaws"
+     },
+      "Network Security": {
+        "keywords": ["network security", "port scan", "ids", "ips", "firewall", "tcp", "penetration testing"],
+        "description": "Security measures for network infrastructure"
+      },
+      "Code Review": {
+        "keywords": ["secure code review", "code audit", "static analysis", "manual review", "vulnerable code", "secure coding"],
+        "description": "Analyzing source code to identify security flaws before deployment"
+    }
+    }
+  }

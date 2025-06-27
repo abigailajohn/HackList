@@ -1,0 +1,653 @@
+{
+  "projects": [
+    {
+      "name": "crAPI",
+      "url": "https://github.com/OWASP/crAPI",
+      "description": "A vulnerable API app to practice attacks like BOLA, BFLA, etc.",
+      "category": "API Security",
+      "difficulty": "Intermediate",
+      "tags": ["api security", "RESTful", "OWASP", "api hacking", "application security"]
+    },
+    {
+      "name": "Damn Vulnerable GraphQL Application (DVGA)",
+      "url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+      "description": "Test GraphQL flaws and vulnerabilities",
+      "category": "API Security",
+      "difficulty": "Intermediate",
+      "tags": ["GraphQL", "api security", "application security", "OWASP"]
+    },
+    {
+      "name": "VAmPI",
+      "url": "https://github.com/erev0s/VAmPI",
+      "description": "REST API built with Flask and designed to be vulnerable",
+      "category": "API Security",
+      "difficulty": "Beginner",
+      "tags": ["api security", "RESTful", "OWASP", "api hacking", "application security"]
+    },
+    {
+      "name": "Very Vulnerable Management API (VVMA)",
+      "url": "https://github.com/abigailajohn/VVMA",
+      "description": "A vulnerable Node.js RESTful API designed for learning",
+      "category": "API Security",
+      "difficulty": "Beginner",
+      "tags": ["api security", "RESTful", "OWASP", "api hacking", "application security"]
+    },
+    {
+      "name": "Damn Vulnerable Web Application (DVWA)",
+      "url": "https://github.com/digininja/DVWA",
+      "description": "PHP/MySQL web application that is damn vulnerable",
+      "category": "Web Security",
+      "difficulty": "Beginner",
+      "tags": ["web security", "web hacking", "OWASP", "application security"]
+    },
+    {
+      "name": "WebGoat",
+      "url": "https://github.com/WebGoat/WebGoat",
+      "description": "Deliberately insecure web application maintained by OWASP",
+      "category": "Web Security",
+      "difficulty": "Intermediate",
+      "tags": ["web security", "web hacking", "OWASP", "application security"]
+    },
+    {
+      "name": "Juice Shop",
+      "url": "https://github.com/juice-shop/juice-shop",
+      "description": "Modern vulnerable web application for security training",
+      "category": "Web Security",
+      "difficulty": "Intermediate",
+      "tags": ["web security", "web hacking", "OWASP", "application security"]
+    },
+    {
+      "name": "Metasploitable",
+      "url": "https://github.com/rapid7/metasploitable3",
+      "description": "Vulnerable virtual machine for testing Metasploit",
+      "category": "Network Security",
+      "difficulty": "Advanced",
+      "tags": ["VM", "pentesting", "Metasploit", "linux", "network security"]
+    },
+    {
+      "name": "VulnHub",
+      "url": "https://www.vulnhub.com/",
+      "description": "Collection of vulnerable virtual machines for practice",
+      "category": "Network Security",
+      "difficulty": "Mixed",
+      "tags":["VM", "pentesting", "linux", "network security"]
+    },
+    {
+      "name": "AdvancedNetworkSecurityProjects",
+      "url": "https://github.com/umeer/AdvancedNetworkSecurityProjects",
+      "description": " Network security related project collection",
+      "category": "Network Security",
+      "difficulty": "Intermediate",
+      "tags": ["pentesting", "linux", "network security"]
+    },
+    {
+      "name": "Damn Vulnerable iOS App (DVIA)",
+      "url": "https://github.com/prateek147/DVIA",
+      "description": "iOS application with common security vulnerabilities",
+      "category": "Mobile Security",
+      "difficulty": "Intermediate",
+      "tags": ["iOS", "mobile pentest", "Swift", "OWASP"]
+    },
+    {
+      "name": "OWASP iGoat",
+      "url": "https://github.com/OWASP/igoat",
+      "description": "Learning platform for iOS security",
+      "category": "Mobile Security",
+      "difficulty": "Beginner",
+      "tags": ["iOS", "OWASP", "mobile pentest"]
+    },
+    {
+      "name": "IoTGoat",
+      "url": "https://github.com/OWASP/IoTGoat",
+      "description": "OWASP IoTGoat is a deliberately insecure firmware",
+      "category": "IoT Security",
+      "difficulty": "Intermediate",
+      "tags": ["IoT", "OWASP", "firmware", "embedded-linux"]
+    },
+    {
+      "name": "AWS Goat",
+      "url": "https://github.com/ine-labs/AWSGoat",
+      "description": "Deliberately vulnerable AWS infrastructure",
+      "category": "Cloud Security",
+      "difficulty": "Intermediate",
+      "tags": ["AWS", "cloud security", "EC2", "iac", "cloud pentesting"]
+    },
+    {
+      "name": "CloudGoat",
+      "url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+      "description": "Rhino Security Labs' vulnerable by design AWS deployment tool",
+      "category": "Cloud Security",
+      "difficulty": "Advanced",
+      "tags": ["AWS", "cloud", "cloud pentesting", "deployment"]
+    },
+    {
+      "name": "CrackMe Challenges",
+      "url": "https://crackmes.one/",
+      "description": "Reverse engineering challenges and crackmes",
+      "category": "Reverse Engineering",
+      "difficulty": "Mixed",
+      "tags": ["reverse engineering", "crackme", "challenges", "assembly"]
+    },
+    {
+      "name": "SIFT Workstation",
+      "url": "https://github.com/sans-dfir/sift",
+      "description": "Digital forensics and incident response toolkit",
+      "category": "Digigtal Forensics",
+      "difficulty": "Beginner",
+      "tags": ["forensics", "incident response", "SANS", "DFIR", "digital forensics"]
+    },
+    {
+      "name": "Social Engineer Toolkit (SET)",
+      "url": "https://github.com/trustedsec/social-engineer-toolkit",
+      "description": "Penetration testing framework for social engineering",
+      "category": "Social Engineering",
+      "difficulty": "Intermediate",
+      "tags": ["social engineering", "pentesting", "phishing", "SET"]
+    },
+    {
+      "name": "Gophish",
+      "url": "https://github.com/gophish/gophish",
+      "description": "Open-source phishing framework for security awareness training",
+      "category": "Social Engineering",
+      "difficulty": "Intermediate",
+      "tags": ["phishing", "social engineering", "awareness", "pentesting"]
+    },
+    {
+        "name": "vuln-bank",
+        "url": "https://github.com/Commando-X/vuln-bank",
+        "description": "Dliberately vulnerable banking application designed for secure code reviews and API security.",
+        "category": ["Web Security, API Security", "Code Review"],
+        "difficulty": "Intermediate",
+        "tags": ["api security", "OWASP", "web security", "code review", "appsec"]
+    },
+    {
+        "name": "vulnapi",
+        "url": "https://github.com/tkisason/vulnapi",
+        "description": "Intentionaly very vulnerable API with bonus bad coding practices",
+        "category": "API Security",
+        "difficulty": "Beginner",
+        "tags": ["api security", "OWASP", "code review", "appsec"]
+    },
+    {
+        "name": "Generic University",
+        "url": "https://github.com/InsiderPhD/Generic-University",
+        "description": "Laravel App vulnerable to a number of vulnerabilities on the OWASP API top 10",
+        "category": "API Security",
+        "difficulty": "Beginner",
+        "tags": ["api security", "OWASP", "web hacking", "appsec"]
+    },
+    {
+        "name": "Node API Goat",
+        "url": "https://github.com/layro01/node-api-goat",
+        "description": "Node.js Express REST app with some OWASP vulnerabilities",
+        "category": "API Security",
+        "difficulty": "Beginner",
+        "tags": ["api security", "OWASP", "code review", "appsec"]
+    },
+    {
+        "name": "dvws-node",
+        "url": "https://github.com/snoopysecurity/dvws-node",
+        "description": "Damn Vulnerable Web Services used to learn about webservices/API related vulnerabilities.",
+        "category": "API Security",
+        "difficulty": "Beginner",
+        "tags": ["api security", "OWASP", "api", "appsec"]
+    },
+    {
+        "name": "iGoat-Swift",
+        "url": "https://github.com/OWASP/iGoat-Swift",
+        "description": " OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS",
+        "category": "Mobile Security",
+        "difficulty": "Intermediate",
+        "tags": ["iOS", "mobile pentest", "Swift", "OWASP"]
+    },
+    {
+        "name": "AndroGoat",
+        "url": "https://github.com/satishpatnayak/AndroGoat",
+        "description": "Purposely developed opensource insecure app for Security Testers/Professionals/Enthusiasts and Developers",
+        "category": "Mobile Security",
+        "difficulty": "Intermediate",
+        "tags": ["Android", "mobile pentest", "Kotlin", "OWASP"]
+    },
+    {
+        "name": "InsecureShop",
+        "url": "https://github.com/hax0rgb/InsecureShop",
+        "description": "Intentionally designed Vulnerable Android Application",
+        "category": "Mobile Security",
+        "difficulty": "Intermediate",
+        "tags": ["Kotlin", "mobile pentest", "Android", "OWASP"]
+    },
+    {
+        "name": "Terragoat",
+        "url": "https://github.com/bridgecrewio/terragoat",
+        "description": "Vulnerable by Design Terraform repository for exploiting issues in cloud environments",
+        "category": "Cloud Security",
+        "difficulty": "Beginner",
+        "tags": ["cloud","aws", "azure", "gcp", "cloud pentesting", "iac"]
+    },
+    {
+        "name": "vuln-bank-devsecops",
+        "url": "https://github.com/Commando-X/vuln-bank-devsecops",
+        "description": "Teach Engineers how to automate security testing of vulnerable applications in the CI/CD Pipeline ",
+        "category": "DevSecOps",
+        "difficulty": "Beginner",
+        "tags": ["devsecops", "ci/cd", "dast", "sast", "sca"]
+    },
+    {
+        "name": "vuln-bank-mobile",
+        "url": "https://github.com/Commando-X/vuln-bank-mobile",
+        "description": "Deliberately vulnerable mobile banking application designed for practicing mobile security testing",
+        "category": "Mobile Security",
+        "difficulty": "Beginner",
+        "tags": ["React", "mobile pentest", "Android", "OWASP"]
+    },
+    {
+        "name": "Damn Vulnerable WordPress (DVWP)",
+        "url": "https://github.com/vavkamil/dvwp",
+        "description": "Playground for WordPress hacking and wpscan testing",
+        "category": "Web Security",
+        "difficulty": "Beginner",
+        "tags": ["web security", "appsec", "OWASP", "web", "WordPress"]
+    },
+    {
+        "name": "GitHub Actions Goat",
+        "url": "https://github.com/step-security/github-actions-goat",
+        "description": "Deliberately Vulnerable GitHub Actions CI/CD Environment",
+        "category": "DevSecOps",
+        "difficulty": "Intermediate",
+        "tags": ["devsecops", "ci/cd", "dast", "sast", "sca", "github-actions"]
+    },
+    {
+        "name": "Damn Vulnerable IoT Device (DVID)",
+        "url": "https://github.com/Vulcainreo/DVID",
+        "description": "The first opensource vulnerable designed IoT device.",
+        "category": "IoT Security",
+        "difficulty": "Beginner",
+        "tags": ["iot security", "firmware analysis", "iot", "firmware security"]
+    },
+    {
+        "name": " Damn Vulnerable NodeJS Application (DVNA)",
+        "url": "https://github.com/appsecco/dvna",
+        "description": "NodeJS application to demonstrate OWASP Top 10 vulnerabilities.",
+        "category": "Web Security",
+        "difficulty": "Beginner",
+        "tags": ["web security", "appsec", "OWASP", "web", "NodeJS"]
+    },
+    {
+        "name": "Kubernetes Goat",
+        "url": "https://github.com/madhuakula/kubernetes-goat",
+        "description": "Vulnerable by Design cluster environment to learn and practice Kubernetes security",
+        "category": "Container & Kubernetes Security",
+        "difficulty": "Beginner",
+        "tags": ["container", "pod", "kubernetes", "cloud-native", "terraform"]
+    }
+    ,{
+        "name": "CdkGoat",
+        "url": "https://github.com/bridgecrewio/cdkgoat",
+        "description": "Vulnerable by design CDK application.",
+        "category": "Cloud Security",
+        "difficulty": "Beginner",
+        "tags": ["cloud","aws", "cloud pentesting", "iac", "Cloudformation"]
+    },
+    {
+        "name": "Cfngoat",
+        "url": "https://github.com/bridgecrewio/cfngoat",
+        "description": "Vulnerable by design Cloudformation template",
+        "category": "Cloud Security",
+        "difficulty": "Beginner",
+        "tags": ["Cloudformation","cloud security", "OWASP", "aws"]
+    },
+    {
+        "name": "wrongsecrets",
+        "url": "https://github.com/OWASP/wrongsecrets",
+        "description": " Vulnerable app with examples showing how to not use secrets",
+        "category": "DevSecOps",
+        "difficulty": "Beginner",
+        "tags": ["docker","kubernetes", "devsecops", "terraform"]
+    },
+    {
+        "name": "brokenbydesign-azure",
+        "url": "https://github.com/SecuraBV/brokenbydesign-azure",
+        "description": "A broken-by-design Azure environment to practice and train security skills in the cloud domain",
+        "category": "Cloud Security",
+        "difficulty": "Beginner",
+        "tags": ["azure","terraform", "OWASP", "cloud pentesting"]
+    },
+    {
+        "name": "FVB (First Vulnerable Bank)",
+        "url": "https://github.com/vchan-in/fvb",
+        "description": "Vulnerable bank application that demonstrates how to exploit RestFUL API and GraphQL vulnerabilities.",
+        "category": "API Security",
+        "difficulty": "Beginner",
+        "tags": ["api", "OWASP", "RESTful", "GraphQL", "api security"]
+    },
+    {
+        "name": "allsafe",
+        "url": "https://github.com/t0thkr1s/allsafe",
+        "description": " Intentionally vulnerable Android application. ",
+        "category": "Mobile Security",
+        "difficulty": "Intermediate",
+        "tags": ["android", "mobile", "mobile security", "OWASP"]
+    },
+    {
+        "name": "EVABS",
+        "url": "https://github.com/abhi-r3v0/EVABS",
+        "description": "An open source Android application that is intentionally vulnerable.",
+        "category": "Mobile Security",
+        "difficulty": "Beginner",
+        "tags": ["android", "mobile", "mobile security", "OWASP"]
+    },
+    {
+        "name": "brokencrystals",
+        "url": "https://github.com/NeuraLegion/brokencrystals",
+        "description": "A Broken Application - Very Vulnerable!",
+        "category": "Web Security",
+        "difficulty": "Beginner",
+        "tags": ["web security", "appsec", "OWASP", "web"]
+    },
+    {
+        "name": "vulpy",
+        "url": "https://github.com/fportantier/vulpy",
+        "description": " Vulnerable Python Application To Learn Secure Development",
+        "category": "Code Review",
+        "difficulty": "Beginner",
+        "tags": ["code review","web", "Python"]
+    },
+    {
+        "name": "DamnVulnerableCryptoApp",
+        "url": "https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp",
+        "description": "An app with really insecure crypto.",
+        "category": "Web3 Security",
+        "difficulty": "Intermediate",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "cryptography"]
+    },
+    {
+        "name": "aws-root-login-response",
+        "url": "https://github.com/Oluwatobi-techboy150/aws-root-login-response",
+        "description":  "Real-time AWS root login detection and response",
+        "category": "SOC Analysis",
+        "difficulty": "Beginner",
+        "tags": ["soc", "log analysis", "siem", "soc analyst"]
+    },
+    {
+        "name": "Capture the Ether",
+        "url": "https://capturetheether.com/",
+        "description":  "A game where you hack Ethereum smart contracts to learn about security.",
+        "category": "Web3 Security",
+        "difficulty": "Intermediate",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "The Ethernaut",
+        "url": "https://ethernaut.openzeppelin.com/",
+        "description":  "Web3/Solidity based wargame played in the Ethereum Virtual Machine",
+        "category": "Web3 Security",
+        "difficulty": "Intermediate",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "Damn Vulnerable DeFi",
+        "url": "https://www.damnvulnerabledefi.xyz/",
+        "description":  "Training ground for security researchers, developers and educators to dive into smart contract security.",
+        "category": "Web3 Security",
+        "difficulty": "Beginner",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "GOATCasino",
+        "url": "https://github.com/nccgroup/GOATCasino",
+        "description":  "Intentionally vulnerable smart contract truffle deployment aimed at allowing those interested in smart contract security.",
+        "category": "Web3 Security",
+        "difficulty": "Intermediate",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "Zero-Health",
+        "url": "https://github.com/aligorithm/Zero-Health",
+        "description": "Deliberately vulnerable health tech platform with AI Chatbot for learning about application security.",
+        "category": ["AI Security", "Web Security", "API Security"],
+        "difficulty": "Beginner",
+        "tags": ["ai security", "web security", "api security", "appsec"]
+    },
+    {
+        "name": "OWASP EKS Goat",
+        "url": "https://github.com/OWASP/www-project-eks-goat",
+        "description":  "Deliberately vulnerable EKS cluster environment to explore AWS cloud-native security.",
+        "category": "Cloud Security",
+        "difficulty": "Beginner",
+        "tags": ["cloud-native", "cloud", "aws", "eks", "cluster", "OWASP", "kubernetes", "docker"]
+    },
+    {
+        "name": "CryptoHack",
+        "url": "https://cryptohack.org/",
+        "description":  "A free, fun platform for learning modern cryptography",
+        "category": "Web3 Security",
+        "difficulty": "Beginner",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "DeFiVulnLabs",
+        "url": "https://github.com/SunWeb3Sec/DeFiVulnLabs",
+        "description":  "Learn common smart contract vulnerabilities using Foundry!",
+        "category": "Web3 Security",
+        "difficulty": "Beginner",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "Cipher Shastra",
+        "url": "https://ciphershastra.com/",
+        "description":  "Challenges targeted towards Blockchain Security, Smart Contract Exploitation, and Cryptography",
+        "category": "Web3 Security",
+        "difficulty": "Beginner",
+        "tags": ["smart contract", "web3", "blockchain", "DeFi", "crypto", "cryptography"]
+    },
+    {
+        "name": "Autopsy",
+        "url": "https://github.com/sleuthkit/autopsy",
+        "description": "Digital forensics platform and GUI for The Sleuth Kit",
+        "category": "Digital Forensics",
+        "difficulty": "Intermediate",
+        "tags": ["forensics", "GUI", "digital forensics", "investigation"]
+    },
+    {
+        "name": "TaaC-AI",
+        "url": "https://github.com/yevh/TaaC-AI",
+        "description": "AI-driven Threat modeling-as-a-Code tool using STRIDE and OWASP frameworks. Generates in-depth HTML reports.",
+        "category": "Threat Modeling",
+        "difficulty": "Intermediate",
+        "tags": ["AI", "threat modeling", "STRIDE", "automation"]
+    },
+    {
+        "name": "Unguard",
+        "url": "https://github.com/dynatrace-oss/unguard",
+        "description": "Insecure cloud-native microservices demo app mimicking a Twitter clone.",
+        "category": "Cloud Security",
+        "difficulty": "Intermediate",
+        "tags": ["cloud-native", "cloud security", "microservices", "OWASP"]
+    },
+    {
+        "name": "CNAPPgoat",
+        "url": "https://github.com/tenable/cnappgoat",
+        "description": "Modularly provisions vulnerable-by-design components in cloud environments.",
+        "category": "Cloud Security",
+        "difficulty": "Intermediate",
+        "tags": [  "cloud",  "cloud security", "infrastructure",  "cnapp"]
+    },
+    {
+        "name": "iam-vulnerable",
+        "url": "https://github.com/BishopFox/iam-vulnerable",
+        "description": "Terraform-based vulnerable AWS IAM playground to explore privilege escalation.",
+        "category": "Cloud Security",
+        "difficulty": "Intermediate",
+        "tags": ["aws", "IAM", "cloud security", "terraform"]
+    },
+    {
+        "name": "Vuldroid",
+        "url": "https://github.com/jaiswalakshansh/Vuldroid",
+        "description": "Vulnerable Android app for demonstrating security issues in mobile code.",
+        "category": "Mobile Security",
+        "difficulty": "Beginner",
+        "tags": ["Android", "mobile security", "OWASP"]
+    },
+    {
+        "name": "bWAPP",
+        "url": "http://www.itsecgames.com/",
+        "description": "Buggy web app for discovering and learning web vulnerabilities.",
+        "category": "Web Security",
+        "difficulty": "Beginner",
+        "tags": ["web security", "vulnerable app", "OWASP"] 
+    },      
+    {
+        "name": "Threat Composer",
+        "url": "https://github.com/awslabs/threat-composer",
+        "description": "Simple tool to reduce time-to-value when threat modeling.",
+        "category": "Threat Modeling",
+        "difficulty": "Beginner",
+        "tags": ["threat modeling", "automation"]
+    },
+    {
+        "name": "Draw.io Threat Modeling Libraries",
+        "url": "https://github.com/michenriksen/drawio-threatmodeling",
+        "description": "Draw.io libraries to aid in creating threat modeling diagrams.",
+        "category": "Threat Modeling",
+        "difficulty": "Beginner",
+        "tags": ["draw.io", "threat modeling", "diagrams", "visualization"]
+    },
+    {
+        "name": "Threagile",
+        "url": "https://github.com/Threagile/threagile",
+        "description": "Agile, code-based threat modeling toolkit.",
+        "category": "Threat Modeling",
+        "difficulty": "Intermediate",
+        "tags": ["threat modeling", "agile", "yaml", "open-source"]
+    },
+    {
+        "name": "OWASP PyTM",
+        "url": "https://github.com/OWASP/pytm",
+        "description": "Pythonic framework for threat modeling using code.",
+        "category": "Threat Modeling",
+        "difficulty": "Intermediate",
+        "tags": [ "threat modeling", "python", "STRIDE", "framework"]
+    },
+    {
+        "name": "OWASP Threat Dragon",
+        "url": "https://github.com/OWASP/threat-dragon",
+        "description": "Cross-platform threat modeling tool for drawing and documenting threats.",
+        "category": "Threat Modeling",
+        "difficulty": "Beginner",
+        "tags": ["threat modeling", "diagramming", "OWASP"]
+    },
+    {
+        "name": "threatspec",
+        "url": "https://github.com/threatspec/threatspec",
+        "description": "Continuous threat modeling through code integration.",
+        "category": "Threat Modeling",
+        "difficulty": "Intermediate",
+        "tags": ["threat modeling", "code-based", "automation"]
+    },
+    {
+        "name": "VAPI",
+        "url":"https://github.com/roottusk/vapi",
+        "description":"Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10",
+        "category":"API Security",
+        "difficulty": "Beginner",
+        "tags": ["api", "OWASP", "RESTful", "api security"]    
+    },
+    {
+        "name": "AzureGoat",
+        "url":"https://github.com/ine-labs/AzureGoat",
+        "description":"A Damn Vulnerable Azure Infrastructure",
+        "category":"Cloud Security",
+        "difficulty": "Beginner",
+        "tags": ["azure", "cloud pentest", "OWASP", "terraform"]  
+    },
+    {
+        "name": "BadZure",
+        "url":"https://github.com/mvelazc0/BadZure",
+        "description":"BadZure automates the creation of various entities to simulate common security misconfigurations in real environments",
+        "category":"Cloud Security",
+        "difficulty": "Intermediate",
+        "tags": ["azure", "cloud pentest", "OWASP", "azure active directory"]
+    },
+    {
+        "name": "AIGoat",
+        "url":"https://github.com/orcasecurity-research/aigoat",
+        "description":"Deliberately Vulnerable AI Infrastructure to practice AI security",
+        "category":"AI Security",
+        "difficulty": "Beginner",
+        "tags": ["ai", "ai security", "OWASP", "ai infrastructure", "terraform", "aws"]
+    },
+    {
+        "name": "Bust-a-Kube",
+        "url":"https://www.bustakube.com/",
+        "description":"intentionally-vulnerable Kubernetes cluster to help people self-train on attacking and defending Kubernetes clusters",
+        "category":"Container & Kubernetes Security",
+        "difficulty": "Beginner",
+        "tags": ["kubernetes", "cluster", "OWASP", "cloud-native"]
+    },
+    {
+        "name": "kubernetes-goat",
+        "url":"https://github.com/madhuakula/kubernetes-goat",
+        "description":"Vulnerable by Design cluster environment to learn and practice Kubernetes security",
+        "category":"Container & Kubernetes Security",
+        "difficulty": "Beginner",
+        "tags": ["kubernetes", "cloud", "OWASP", "cloud-native", "k8s", "infrastructure"]
+    },
+    {
+        "name": "cicd-goat",
+        "url":"https://github.com/cider-security-research/cicd-goat",
+        "description":"A deliberately vulnerable CI/CD environment",
+        "category":"DevSecOps",
+        "difficulty": "Beginner",
+        "tags": ["jenkins", "devops", "gitlab", "appsec", "cicd", "devsecops"]
+    },
+    {
+        "name": "Wazuh-SOC-Lab-Project",
+        "url":"https://github.com/abumchisom/Wazuh-SOC-Lab-Project",
+        "description":"Learn how to set up a Cybersecurity SOC Platform hosted on a cloud-based environment",
+        "category":"SOC Analysis",
+        "difficulty": "Beginner",
+        "tags": ["soc", "cloud", "wazuh"]
+    },
+    {
+        "name": "Incident-Response-Projects-for-Beginners",
+        "url":"https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners",
+        "description":"Hands-on projects to improve skills in phishing investigation, malware analysis, network intrusion detection, and DDoS attack response",
+        "category":"Incident Response",
+        "difficulty": "Beginner",
+        "tags": ["incident response", "phishing investigation", "malware analysis", "intrusion detection"]
+    },
+    {
+        "name": "BlueTeam.Lab",
+        "url":"https://github.com/op7ic/BlueTeam.Lab",
+        "description":"Deliberately designed to be insecure blue team lab",
+        "category":"Digital Forensics",
+        "difficulty": "Beginner",
+        "tags": ["forensics", "blue team", "soc", "ansible", "terraform"]
+    },
+    {
+        "name": "Blue Team CTF Challenges",
+        "url":"https://cyberdefenders.org/blueteam-ctf-challenges/",
+        "description":"Put your knowledge into practice with gamified cyber security challenges",
+        "category":["Digital Forensics", "SOC Analysis"],
+        "difficulty": "Beginner",
+        "tags": ["forensics", "blue team", "soc", "ansible", "terraform"]
+    },
+    {
+        "name": "Malware Analysis labs",
+        "url":"https://malwaretech.com/labs/",
+        "description":"",
+        "category":"Malware Analysis",
+        "difficulty": "Advanced",
+        "tags": ["malwaretech", "malware", "static analysis", "Windows"]
+    },
+    {
+        "name": "c{api}tal",
+        "url":"https://github.com/Checkmarx/capital",
+        "description":"A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities.",
+        "category":["API Security","Web Security"],
+        "difficulty": "Advanced",
+        "tags": ["malwaretech", "malware", "static analysis", "windows"]
+    }
+   ]
+} 
+
