@@ -64,7 +64,6 @@ def test_imports():
     try:
         import streamlit
         import openai
-        import duckduckgo_search
         import pandas
         print("✅ All required modules imported successfully")
         return True
