@@ -55,23 +55,22 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ```
 cybersec_projects_recommender/
-├── app.py                 # Streamlit web interface
+├── app.py                 
 ├── agent/
 │   ├── __init__.py
-│   ├── core_agent.py      # Main AI agent logic
-│   ├── search_tool.py     # DuckDuckGo search integration
-│   ├── categorization.py  # Project categorization tools
-│   └── filtering.py       # Result filtering and deduplication
+│   ├── core_agent.py      
+│   ├── search_tool.py   
+│   ├── categorization.py 
+│   └── filtering.py  
 ├── data/
-│   ├── projects_dataset.json  # Preloaded cybersecurity projects
-│   └── categories.json        # Security domain categories
+│   ├── projects_dataset.json 
+│   └── categories.json     
 ├── utils/
 │   ├── __init__.py
-│   └── helpers.py         # Utility functions
+│   └── helpers.py       
 ├── requirements.txt
 └── README.md
 ```
-
 
 ## 🛡️ Supported Security Domains
 
