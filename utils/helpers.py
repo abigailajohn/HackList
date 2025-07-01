@@ -1,5 +1,5 @@
 """
-Helper utility functions for the Cybersecurity Projects Recommender
+Helper utility functions for HackList
 """
 
 import re

@@ -142,7 +142,8 @@ HackList/
 
 ## 🛡️ Supported Security Domains
 
-- 🌐 Web/API Security
+- 🌐 Web Security
+- 🌐 API Security
 - 🔗 Web3 Security
 - 📱 Mobile Security
 - 📡 IoT Security

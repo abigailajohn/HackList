@@ -1,5 +1,5 @@
 """
-Test script for the Cybersecurity Projects Recommender AI Agent
+Test script for HackList AI Agent
 """
 
 import os

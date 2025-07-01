@@ -1,5 +1,5 @@
 """
-Core AI Agent for Cybersecurity Project Recommendations
+Core AI Agent for HackList
 Orchestrates search, categorization, and filtering tools
 """
 

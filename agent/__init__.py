@@ -1,5 +1,5 @@
 """
-Cybersecurity Projects Recommender AI Agent Package
+HackList AI Agent Package
 """
 from .core_agent import CyberSecProjectAgent
 from .search_tool import SearchTool

@@ -1,5 +1,5 @@
 """
-Setup script for Cybersecurity Projects Recommender
+Setup script for HackList
 """
 
 import os
@@ -102,7 +102,7 @@ def run_basic_test():
 
 def main():
     """Main setup function"""
-    print("🛡️ Cybersecurity Projects Recommender Setup")
+    print("🛡️ HackList Setup")
     print("=" * 50)
     
     # Check Python version
