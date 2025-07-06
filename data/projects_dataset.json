@@ -132,7 +132,7 @@
       "name": "SIFT Workstation",
       "url": "https://github.com/sans-dfir/sift",
       "description": "Digital forensics and incident response toolkit",
-      "category": "Digigtal Forensics",
+      "category": "Digital Forensics",
       "difficulty": "Beginner",
       "tags": ["forensics", "incident response", "SANS", "DFIR", "digital forensics"]
     },
@@ -647,6 +647,38 @@
         "category":["API Security","Web Security"],
         "difficulty": "Advanced",
         "tags": ["malwaretech", "malware", "static analysis", "windows"]
+    },
+    {
+        "name": "SOC-Home-Lab-Attack-Defense-Simulation",
+        "url": "https://github.com/xAHIINX00/SOC-Home-Lab-Attack-Defense-Simulation",
+        "description": "Simulate real-world attack and defense scenarios in a controlled virtual environment",
+        "category": "SOC Analysis",
+        "difficulty": "Intermediate",
+        "tags": ["blue team", "splunk", "siem", "soc"]
+    },
+    {
+        "name": "cloudfoxable",
+        "url": "https://github.com/BishopFox/cloudfoxable",
+        "description": "Create your own vulnerable by design AWS penetration testing playground",
+        "category": "Cloud Security",
+        "difficulty": "Intermediate",
+        "tags": ["cloud security", "AWS", "terraform"]
+    },
+    {
+        "name": "caldera",
+        "url": "https://github.com/mitre/caldera",
+        "description": " Automated Adversary Emulation Platform ",
+        "category": "Network Security",
+        "difficulty": "Advanced",
+        "tags": ["automation"]
+    },
+    {
+        "name": "MemLabs",
+        "url": "https://github.com/stuxnet999/MemLabs",
+        "description": "Educational, CTF-styled labs for individuals interested in Memory Forensics",
+        "category": "Digital Forensics",
+        "difficulty": "Beginner",
+        "tags": ["forensics", "DFIR"]
     }
    ]
 } 
